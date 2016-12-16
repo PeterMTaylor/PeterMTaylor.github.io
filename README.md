@@ -1,2 +1,3 @@
 # PeterMTaylor.github.io
-Personal Blog page on GitHub
+
+This repo provides the webpages for PeterMTaylor on github.
